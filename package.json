@@ -7,6 +7,7 @@
   "author": "Sudhir Ganesan",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://github.com/"
+    "serviceURL": "https://github.com/",
+    "hasIndirectMessages": true
   }
 }
